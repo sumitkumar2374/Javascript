@@ -77,8 +77,14 @@ If you find this helpful, give it a ⭐ on GitHub!
 
 ## 📬 Connect with Me
 
-- GitHub: (your profile link here)
+- GitHub: (https://github.com/sumitkumar2374)
 
 ---
 
 > 💡 *“Consistency beats talent when talent doesn’t work hard.”*
+
+---
+
+> Author 
+
+**Sumit Kumar**
