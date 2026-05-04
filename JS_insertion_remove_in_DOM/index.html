@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .red{
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container red bg-green">
+        <div class="box" style="display: flex;" data-createdby="harry" data-conceptby="rohan" >Hey I am a box</div>
+        <div class="box">Hey I am a box</div>
+        <script>
+            // agr hme ek div create krna h tab aaise krenge js help se, or div ke andr class bhi bna h ..
+            let div = document.createElement("div");
+            // ye line div ke andr text likha gya h..
+            div.innerHTML = "I have been inserted <b>by harry</b>"
+            // ye line class set kiya gya h ya keh skte h create kiya gya h jiska name h created ..
+            div.setAttribute("class", "created");
+            // iska matlab h ki .container jo ki ek class h ye div create hua h iske upar create krna h ..
+            document.querySelector(".container").before(div);
+
+            // insertAdjacentHTML - ke help se hm text/img etc insert kr skte h..
+            // ye line agr hme koi bhi elenent ya html me kab kon si element add krna h uske liye h..
+            let cont = document.querySelector(".container")
+            // ye line likhne ke baad .container ke suru hone se just upar likha jayega ..
+            cont.insertAdjacentHTML("beforebegin", "<b> I am under the water. Please h elp me here too much raining.... iuuuuooooo</b>")
+        </script>
+    </div>
+</body>
+
+</html>
