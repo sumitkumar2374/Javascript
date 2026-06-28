@@ -88,12 +88,4 @@ If you find this helpful, give it a ⭐ on GitHub!
 > Author 
 
 **Sumit Kumar**
-
-# Here are the commit list for contribution graph
-
-- 1st/2nd commit
-- 3rd commit list is the starting
-- 4th commit list is the attaching some file
-- 5th commit list is the go to file
-- 6th commit list is the preview
-- 7th commit list is the fix changes 
+ 
