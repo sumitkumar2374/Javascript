@@ -1,12 +1,4 @@
-# $ Here are the commit list for contribution graph 
-
-- 1st/2nd commit list
-- 3rd commit list is starting
-- 4th commit list is the got to file
-- 5th commit list is the check list
-- 6th commit list is the preview list
-
-# 🚀 JavaScript Learning Journey
+ # 🚀 JavaScript Learning Journey
 
 Welcome to my JavaScript repository!  
 This repo contains my complete learning journey of JavaScript — from basics to advanced concepts, along with practice problems and mini projects.
