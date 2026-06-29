@@ -1,7 +1,8 @@
 # $ Here are the commit list for contribution graph 
 
 - 1st/2nd commit list
-- 3rd commit list is starting 
+- 3rd commit list is starting
+- 4th commit list is the got to file 
 
 # 🚀 JavaScript Learning Journey
 
