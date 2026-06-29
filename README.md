@@ -1,4 +1,6 @@
-$ Here are the commit list for contribution graph 
+# $ Here are the commit list for contribution graph 
+
+- 1st/2nd commit list 
 
 # 🚀 JavaScript Learning Journey
 
