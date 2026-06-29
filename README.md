@@ -1,6 +1,7 @@
 # $ Here are the commit list for contribution graph 
 
-- 1st/2nd commit list 
+- 1st/2nd commit list
+- 3rd commit list is starting 
 
 # 🚀 JavaScript Learning Journey
 
