@@ -5,6 +5,7 @@
 - 4th commmit list is the attaching some alt files in js
 - 5th commit list is the go to file in js
 - 6th commit list is the check file in js main
+- 7th commit list is the preview 
  
 # 🚀 JavaScript Learning Journey
 
