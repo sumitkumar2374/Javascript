@@ -1,7 +1,8 @@
 # Hree are the commit list for contribution graph 
 
 - 1st/2nd commit
-- 3rd commit list is the starting 
+- 3rd commit list is the starting
+- 4th commmit list is the attaching some alt files in js 
  
 # 🚀 JavaScript Learning Journey
 
