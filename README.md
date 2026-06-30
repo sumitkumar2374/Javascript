@@ -1,4 +1,6 @@
- # 🚀 JavaScript Learning Journey
+# Hree are the commit list for contribution graph 
+ 
+# 🚀 JavaScript Learning Journey
 
 Welcome to my JavaScript repository!  
 This repo contains my complete learning journey of JavaScript — from basics to advanced concepts, along with practice problems and mini projects.
