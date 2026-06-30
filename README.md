@@ -3,7 +3,8 @@
 - 1st/2nd commit
 - 3rd commit list is the starting
 - 4th commmit list is the attaching some alt files in js
-- 5th commit list is the go to file in js 
+- 5th commit list is the go to file in js
+- 6th commit list is the check file in js main
  
 # 🚀 JavaScript Learning Journey
 
