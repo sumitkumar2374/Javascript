@@ -2,7 +2,8 @@
 
 - 1st/2nd commit
 - 3rd commit list is staring in main
-- 4th commit list is the attaching some file 
+- 4th commit list is the attaching some file
+- 5th commit list is the check and preview 
 
 # 🚀 JavaScript Learning Journey
 
