@@ -1,3 +1,7 @@
+# Here are the commit list for contrinution graph
+
+
+
 # 🚀 JavaScript Learning Journey
 
 Welcome to my JavaScript repository!  
