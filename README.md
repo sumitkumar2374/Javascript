@@ -1,9 +1,3 @@
-# Here are the commit list for contrinution graph
-
-- 1st/2nd commit
-- 3rd commit list is the attaching some imp files
-- 4th commit list is the changes in file 
-
 # 🚀 JavaScript Learning Journey
 
 Welcome to my JavaScript repository!  
