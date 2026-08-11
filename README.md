@@ -1,5 +1,3 @@
-# Here are the commit list is the for graph 
-
 # 🚀 JavaScript Learning Journey
 
 Welcome to my JavaScript repository!  
