@@ -1,5 +1,3 @@
-# Here are the one more commit list for increase graph\\\
-
 # 🚀 JavaScript Learning Journey
 
 Welcome to my JavaScript repository!  
