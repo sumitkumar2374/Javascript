@@ -1,5 +1,3 @@
-# Here are the commit list one changes and then clean 
-
 # 🚀 JavaScript Learning Journey
 
 Welcome to my JavaScript repository!  
