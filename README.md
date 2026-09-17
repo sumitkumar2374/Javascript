@@ -1,9 +1,3 @@
-# Here are the commit list for contribution graph 
-
-- 4th commit list is preview mermaid
-
-
-
 # 🚀 JavaScript Learning Journey
 
 Welcome to my JavaScript repository!  
