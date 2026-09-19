@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event bubbling</title>
+    <style>
+        .child {
+            background-color: aliceblue;
+            border: 2px solid black;
+            padding: 14px;
+            margin: 14px;
+            cursor: pointer;
+        }
+
+        .childContainer {
+            background-color: beige;
+            padding: 14px;
+            margin: 14px;
+        }
+
+        .container {
+            background-color: rgb(227, 227, 28);
+            padding: 14px;
+            margin: 14px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <section class="childContainer">
+            <div class="child">
+                I am a child
+            </div>
+        </section>
+    </div>
+    <script>
+        // ye code child name ke class pr click event ko fired kiya ja rha h
+        document.querySelector(".child").addEventListener("click", (e) => {
+            // isse bubbling ko stop kiya jata h
+            e.stopPropagation()
+            // ye event fired hone ke baad alert ka ek pop up aayega 
+            alert("Child Was clicked")
+        })
+
+        // ye code childcontainer class pr click event ko fired kiya ja rha h
+        document.querySelector(".childContainer").addEventListener("click", (e) => {
+            // isse bubbling ko stop kiya ja rha h
+            e.stopPropagation()
+            alert("childContainer Was clicked")
+        })
+
+        // ye code container class pr click event fired kiya ja rha h
+        document.querySelector(".container").addEventListener("click", (e) => {
+            // event work krne ke baad ek pop up aayega 
+            alert("container Was clicked")
+        })
+
+        // ye code ek random color generate krne ka code h
+        function getRandomColor() {
+            let val1 = Math.ceil(0 + Math.random() * 255);
+            let val2 = Math.ceil(0 + Math.random() * 255);
+            let val3 = Math.ceil(0 + Math.random() * 255);
+            return `rgb(${val1}, ${val2}, ${val3})`
+        }
+
+        // ye code jo setInterval() h ye koi bhi kaam ko kitna second tak repeate krna h ye krta h
+        let b = setInterval(() => {
+            document.querySelector(".childContainer").style.background = getRandomColor();
+        }, 1000);  // 1 second me color change or repeate hote rahega jab tak isse stop nhi kiya jayega ..
+
+        console.log(b)
+        // ye setInterval() ko stop krne ke liye console me ek digit print hoga wahi wala digit ko clearInterval() me rakhna h..
+        // clearInterval() ka use hota h ..
+
+        // ye koi perticular kam ko kuch second ke liye krta h pr only 1 baar hi kaam krta h ..
+        // waise hi stop ke liye clearTimeout uske baad me ye console me ek digit print hoga wahi wala digit ko clearInterval() me rakhna h..
+        let a = setTimeout(() => {
+            document.querySelector(".childContainer").style.background = getRandomColor();
+        }, 5000);
+
+        console.log(a)
+
+
+    </script>
+</body>
+
+</html>

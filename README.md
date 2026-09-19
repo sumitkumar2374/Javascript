@@ -5,6 +5,26 @@ This repo contains my complete learning journey of JavaScript — from basics to
 
 ---
 
+## 🔀 Learning Journey
+
+```mermaid
+flowchart TD
+    A[🚀 Start JavaScript] --> B[📚 Basics]
+    B --> C[🧩 Variables & Data Types]
+    C --> D[⚙️ Operators & Conditions]
+    D --> E[🔄 Loops]
+    E --> F[🔧 Functions]
+    F --> G[📦 Arrays & Methods]
+    G --> H[🌐 DOM Manipulation]
+    H --> I[🖱️ Events]
+    I --> J[🧠 Problem Solving]
+    J --> K[💡 Mini Projects]
+    K --> L[🚀 Advanced Concepts]
+    L --> M[🎯 Strong JavaScript Foundation]
+```
+
+---
+
 ## 📂 Folder Structure
 javascript/
 │
