@@ -9,18 +9,37 @@ This repo contains my complete learning journey of JavaScript — from basics to
 
 ```mermaid
 flowchart TD
-    A[🚀 Start JavaScript] --> B[📚 Basics]
-    B --> C[🧩 Variables & Data Types]
-    C --> D[⚙️ Operators & Conditions]
-    D --> E[🔄 Loops]
-    E --> F[🔧 Functions]
-    F --> G[📦 Arrays & Methods]
-    G --> H[🌐 DOM Manipulation]
-    H --> I[🖱️ Events]
-    I --> J[🧠 Problem Solving]
-    J --> K[💡 Mini Projects]
-    K --> L[🚀 Advanced Concepts]
-    L --> M[🎯 Strong JavaScript Foundation]
+    A[🚀 JavaScript Learning] --> B[📚 Fundamentals]
+    A --> C[🧩 Core Concepts]
+    A --> D[🌐 Web Development]
+    A --> E[🧠 Practice & Projects]
+
+    B --> B1[Variables & Data Types]
+    B --> B2[Operators & Conditions]
+    B --> B3[Loops]
+
+    C --> C1[Functions]
+    C --> C2[Arrays & Methods]
+    C --> C3[Problem Solving]
+
+    D --> D1[DOM Manipulation]
+    D --> D2[Events]
+    D --> D3[HTML & CSS Integration]
+
+    E --> E1[Practice Problems]
+    E --> E2[Mini Projects]
+    E --> E3[Real-world Practice]
+
+    B1 --> F[🚀 Strong JavaScript Foundation]
+    B2 --> F
+    B3 --> F
+    C1 --> F
+    C2 --> F
+    C3 --> F
+    D1 --> F
+    D2 --> F
+    E1 --> F
+    E2 --> F
 ```
 
 ---
