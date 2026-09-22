@@ -1,4 +1,3 @@
-
 # 🚀 JavaScript Learning Journey
 
 Welcome to my JavaScript repository!  
