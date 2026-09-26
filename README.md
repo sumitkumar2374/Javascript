@@ -1,3 +1,5 @@
+# Here are the commit lists for contribution graph 
+
 # 🚀 JavaScript Learning Journey
 
 Welcome to my JavaScript repository!  
