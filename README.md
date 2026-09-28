@@ -1,7 +1,8 @@
 # Here are the commit list for contribution graph 
 
 - 1st/2nd commit
-- 3rd commit list is the check 
+- 3rd commit list is the check
+- 4th
 
 # 🚀 JavaScript Learning Journey
 
