@@ -1,5 +1,3 @@
-# Here are the commit list for contribution inc graph 
-
 # 🚀 JavaScript Learning Journey
 
 Welcome to my JavaScript repository!  
