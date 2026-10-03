@@ -72,10 +72,10 @@ javascript/
 
 ## 🔥 Features of This Repo
 
-- Beginner-friendly code 🧠  
+- ```Beginner-friendly``` code 🧠  
 - Clean and readable examples ✨  
 - Practice-based learning 📚  
-- Real-world mini projects 💡  
+- ```Real-world``` mini projects 💡  
 
 ---
 
@@ -110,7 +110,7 @@ This is a personal learning repo, but suggestions are always welcome!
 
 ## ⭐ Support
 
-If you find this helpful, give it a ⭐ on GitHub!
+If you find this helpful, give it a ⭐ on ```GitHub```!
 
 ---
 
@@ -120,7 +120,7 @@ If you find this helpful, give it a ⭐ on GitHub!
 
 ---
 
-> 💡 *“Consistency beats talent when talent doesn’t work hard.”*
+> 💡 *“```Consistency``` beats talent when talent doesn’t work hard.”*
 
 ---
 
