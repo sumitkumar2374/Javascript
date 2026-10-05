@@ -69,6 +69,7 @@ javascript/
 - ✅ Mini Projects  
 - add topic on js 
 - clean and basic 
+- Here are the commit list for contribution graph 
 
 ---
 
