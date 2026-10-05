@@ -68,6 +68,7 @@ javascript/
 - ✅ Problem Solving  
 - ✅ Mini Projects  
 - add topic on js 
+- clean and basic 
 
 ---
 
