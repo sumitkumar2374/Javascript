@@ -67,11 +67,7 @@ javascript/
 - ✅ Events  
 - ✅ Problem Solving  
 - ✅ Mini Projects  
-- add topic on js 
-- clean and basic 
-- Here are the commit list for contribution graph 
-- 5th commit list is the preview 
-
+  
 ---
 
 ## 🔥 Features of This Repo
