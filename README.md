@@ -67,7 +67,7 @@ javascript/
 - ✅ Events  
 - ✅ Problem Solving  
 - ✅ Mini Projects  
-- add 
+- add topic on js 
 
 ---
 
