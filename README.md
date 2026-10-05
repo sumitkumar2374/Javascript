@@ -70,6 +70,7 @@ javascript/
 - add topic on js 
 - clean and basic 
 - Here are the commit list for contribution graph 
+- 5th commit list is the preview 
 
 ---
 
