@@ -1,3 +1,5 @@
+# Here are the commit list for cinntribution graph 
+
 # 🚀 JavaScript Learning Journey
 
 Welcome to my ```JavaScript repository```!  
