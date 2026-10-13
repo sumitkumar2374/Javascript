@@ -1,10 +1,3 @@
-# here are the commit list for contribution graph 
-
-- 1st/2nd commit
-- 3rd commit list is the attaching some imp file in main
-- 4th commit list is the preview
-- 5th commit list is the check 
-
 # 🚀 JavaScript Learning Journey
 
 Welcome to my ```JavaScript repository```!  
