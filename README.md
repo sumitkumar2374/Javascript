@@ -1,3 +1,7 @@
+# Here are the commit list to contribute 
+
+- 3rd commit list
+
 # 🚀 JavaScript Learning Journey
 
 Welcome to my ```JavaScript repository```!  
