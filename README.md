@@ -1,7 +1,7 @@
 # 🚀 JavaScript Learning Journey
 
-Welcome to my ```JavaScript repository```!  
-This repo contains my complete learning journey of ```JavaScript``` — from basics to advanced concepts, along with practice problems and mini projects.
+Welcome to my `JavaScript repository`!  
+This repo contains my complete learning journey of `JavaScript` — from basics to advanced concepts, along with practice problems and mini projects.
 
 ---
 
@@ -81,7 +81,7 @@ javascript/
 
 ## 🎯 Goal
 
-To become strong in JavaScript by:
+To become strong in `JavaScript` by:
 - Practicing daily  
 - Building projects  
 - Understanding core concepts deeply  
