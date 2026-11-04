@@ -98,7 +98,7 @@ To become strong in `JavaScript` by:
 
 ## 📈 Progress
 
-🚧 Currently learning and updating regularly...
+🚧 Currently learning and updating `regularly`...
 
 ---
 
