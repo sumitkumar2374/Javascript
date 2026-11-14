@@ -74,7 +74,7 @@ javascript/
 
 - ```Beginner-friendly``` code 🧠  
 - `Clean` and `readable` examples ✨  
-- Practice-based learning 📚  
+- `Practice-based` learning 📚  
 - ```Real-world``` mini projects 💡  
 
 ---
