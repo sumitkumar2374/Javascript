@@ -73,7 +73,7 @@ javascript/
 ## 🔥 Features of This Repo
 
 - ```Beginner-friendly``` code 🧠  
-- Clean and readable examples ✨  
+- `Clean` and readable examples ✨  
 - Practice-based learning 📚  
 - ```Real-world``` mini projects 💡  
 
