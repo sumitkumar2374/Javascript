@@ -83,7 +83,7 @@ javascript/
 
 To become strong in `JavaScript` by:
 - `Practicing` daily  
-- Building projects  
+- `Building` projects  
 - Understanding core concepts `deeply ` 
 
 ---
