@@ -82,7 +82,7 @@ javascript/
 ## 🎯 Goal
 
 To become strong in `JavaScript` by:
-- Practicing daily  
+- `Practicing` daily  
 - Building projects  
 - Understanding core concepts `deeply ` 
 
