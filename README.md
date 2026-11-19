@@ -1,7 +1,8 @@
 # Here are the commit list for cotribution graph 
 
 - 1st/2nd commit list
-- 3rd commit list to attach something imp file 
+- 3rd commit list to attach something imp file
+- 4th commit list preview
 
 # 🚀 JavaScript Learning Journey
 
