@@ -1,5 +1,7 @@
 # Here are the commit list for cotribution graph 
 
+- 1st/2nd commit list
+
 # 🚀 JavaScript Learning Journey
 
 Welcome to my `JavaScript repository`!  
