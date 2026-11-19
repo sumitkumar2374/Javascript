@@ -3,6 +3,7 @@
 - 1st/2nd commit list
 - 3rd commit list to attach something imp file
 - 4th commit list preview
+- 5th commit list check
 
 # 🚀 JavaScript Learning Journey
 
