@@ -104,7 +104,7 @@ To become strong in `JavaScript` by:
 
 ## 🤝 Contribution
 
-This is a personal learning repo, but suggestions are always welcome!
+This is a personal learning repo, but suggestions are `always welcome`!
 
 ---
 
